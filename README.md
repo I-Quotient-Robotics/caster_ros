@@ -17,7 +17,7 @@ See below for caster ROS package installation
 The following command will install caster_robot, caster_description and depends
 
 ```bash
-cd ~catkin_ws/src
+cd ~/catkin_ws/src
 curl https://raw.githubusercontent.com/I-Quotient-Robotics/caster_ros/master/caster_robot_install.sh | sh
 ```
 
@@ -25,7 +25,7 @@ curl https://raw.githubusercontent.com/I-Quotient-Robotics/caster_ros/master/cas
 The following command will install caster_desktop, caster_description and depends
 
 ```bash
-cd ~catkin_ws/src
+cd ~/catkin_ws/src
 curl https://raw.githubusercontent.com/I-Quotient-Robotics/caster_ros/master/caster_desktop_install.sh | sh
 ```
 
@@ -36,7 +36,7 @@ Caster ROS package has three parts, See below for details.
  - [caster_desktop][2]: visualize, control, and communicate tools
  - [caster_description][3]: robot description(URDF) for caster
 
-## caster_robot
+### caster_robot
 ROS packages for the IQR Caster robot, for operating Caster robot hardware. 
 
  - caster_app : Application 
@@ -44,13 +44,13 @@ ROS packages for the IQR Caster robot, for operating Caster robot hardware.
  - caster_control : ROS controller configuration
  - caster_navigation : Navigation configurations and launch files
 
-## caster_desktop
+### caster_desktop
 Desktop ROS packages for the IQR Caster, which may pull in graphical dependencies.
 
  - caster_viz : Visualization (rviz) configuration and bringup
  - caster_teleop : Joystick teleop configuration and launch file
 
-## caster_description
+### caster_description
 ROS packages for the IQR Caster, which contains robot description (URDF)
 
 ------
