@@ -8,7 +8,6 @@ IQR Caster robot ROS packages, contains caster_robot and caster_desktop installe
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-© 2019 Beijing I-Quotient Robot Technology Co., Ltd. All Rights Reserved
 
 ## Installation
 See below for caster ROS package installation
