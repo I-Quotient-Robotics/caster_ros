@@ -39,4 +39,4 @@ ROS packages for the IQR Caster, which contains robot description (URDF)
 
 [1]: https://github.com/I-Quotient-Robotics/caster_robot
 [2]: https://github.com/I-Quotient-Robotics/caster_desktop
-[2]: https://github.com/I-Quotient-Robotics/caster_description
+[3]: https://github.com/I-Quotient-Robotics/caster_description
